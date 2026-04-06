@@ -1,0 +1,102 @@
+{
+ "scriptContent": {
+  "header": {
+   "scriptName": "KJ_DevOps_GitHub\\Dev\\main\\KJ_DevOps_Test_04062026_5",
+   "busNo": 4597359,
+   "mediaType": 4,
+   "mediaTypeName": "call",
+   "variableRedaction": null,
+   "nextActionId": 2,
+   "timestamp": null,
+   "purposeType": "General",
+   "lastSavedIn": "cxs",
+   "wasLayoutAlgorithmRun": true,
+   "status": "Active"
+  },
+  "actions": {
+   "1": {
+    "actionId": 1,
+    "name": "BEGIN",
+    "version": 1,
+    "label": "Begin",
+    "dependencyOrder": 0,
+    "implType": 0,
+    "x": 664,
+    "y": 560,
+    "libraryId": "B2F794C5-0232-40E7-9830-76D573BF57D7",
+    "xws": 664,
+    "yws": 560
+   }
+  },
+  "properties": {
+   "1": {
+    "0": {
+     "value": "",
+     "name": "RootFolder"
+    },
+    "1": {
+     "value": "",
+     "name": "Application"
+    },
+    "2": {
+     "value": "",
+     "name": "ParamCount"
+    },
+    "3": {
+     "value": "",
+     "name": "Parameters"
+    }
+   }
+  },
+  "branches": {},
+  "isDataLoaded": true,
+  "isDataLoading": false,
+  "isDataSaving": false,
+  "isNewScript": false,
+  "isViewOnlyMode": true,
+  "isLockOverride": false,
+  "isVersionHistoryMode": false,
+  "dataLoadingProgress": 0,
+  "error": null,
+  "issues": {
+   "totalErrors": "0",
+   "totalWarnings": "1",
+   "actions": {
+    "1": {
+     "actionType": "BEGIN",
+     "errors": [],
+     "warnings": [
+      {
+       "key": "Warning! The Default branch for Begin is not wired up!",
+       "localizationKey": "default-branch-is-not-wired-up",
+       "interpolationValues": [
+        "Begin"
+       ]
+      }
+     ]
+    }
+   },
+   "script": {}
+  },
+  "startTraceOptions": {
+   "skill": "",
+   "skillDescription": "",
+   "simulateInboundCall": false,
+   "phone": "",
+   "dnis": "",
+   "ani": "",
+   "simulateDateTime": false,
+   "dateTime": null,
+   "timezone": "(Business Unit Default)",
+   "parameters": []
+  },
+  "versionHistory": null,
+  "scriptVersions": {},
+  "lastVersionEdited": null,
+  "traceWindowCount": 0,
+  "variables": {},
+  "compareScript": {},
+  "customConnectorIdentifier": null,
+  "schemaVersion": "1.0.0"
+ }
+}
